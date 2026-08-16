@@ -74,6 +74,14 @@ Arquivo responsável pela aparência principal da tela, incluindo:
 - Área de imagem;
 - Centralização da tela.
 
+## Tela de login do projeto
+<p align="center">
+  <img src="imagens/img-login-preview.png" alt="Preview da tela de login" width="700">
+</p>
+
+<br>
+<br>
+
 ### `estilos/media-query.css`
 
 Arquivo responsável pela responsividade do projeto. Ele ajusta o layout conforme o tamanho da tela, mudando a disposição da imagem e do formulário em telas maiores.
